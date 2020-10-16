@@ -52,7 +52,7 @@
     <div class="container cont-booking">
     <div class="row">
       <div class="col-lg-6">
-        <form action="my_booking.php" method="POST">
+        <from action="my_booking.php" method="POST">
           <div class="form-group row">
             <label for="inputNama" class="col-sm-3 col-form-label">Name</label>
             <div class="col-sm-10">
@@ -114,7 +114,7 @@
           </div>
           <div class="form-group row">
             <div class="col-sm-10">
-            <button type="submit" class="btn btn-primary" style="width: 100%;" name="submit">Book</button>
+            <button type="" class="btn btn-primary" style="width: 100%;" name="submit">Book</button>
             </div>
           </div>
         </form>
